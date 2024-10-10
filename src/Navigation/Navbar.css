@@ -1,0 +1,23 @@
+nav {
+    background-color: #e9b1db;
+    color:white;
+}
+li {
+    list-style: none;
+}
+nav {
+    position: fixed;
+    width: 100%;
+    top:0;
+    
+
+}
+.navbar {
+    padding-right: 25px;
+}
+ul {
+    display:flex;
+    gap:25px;
+    justify-content: right;
+    padding-right: 10%;
+}

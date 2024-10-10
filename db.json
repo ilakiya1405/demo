@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "name": "ilakiya",
+      "id": 1
+    },
+    {
+      "name": "mathi",
+      "id": 2
+    },
+    {
+      "name": "nisha",
+      "id": 3
+    },
+    {
+      "name": "naveena",
+      "id": 4
+    },
+    {
+      "name": "kavyashri",
+      "id": 5
+    },
+    {
+      "name": "mtj",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
